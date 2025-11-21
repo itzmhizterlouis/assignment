@@ -1,4 +1,4 @@
 Name: Itsuokor Marvelloius
 Matric number: 22CG031871
-Live URL of hosted application: https://assignment-lac-alpha-81.vercel.app
+Live URL of hosted application: https://my-assignment-sandy.vercel.app
 GitHub repository link: https://github.com/itzmhizterlouis/assignment
